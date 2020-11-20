@@ -23,4 +23,4 @@ _This is a github Session_
 Adding Link
 ===========
 [instagram](https://www.instagram.com/)
-[Heading1](#Header1 "goto Headers")
+[Headers](#Header "goto Headers")
