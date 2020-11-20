@@ -24,3 +24,40 @@ Adding Link
 ===========
 [instagram](https://www.instagram.com/)
 [Headers](#Headers "goto Headers")
+
+
+ordered and unordered list
+==========================
+- First phase
+  - second phase
+    - third phase
+      - fourth phase
+      
+checkboxs
+=========
+-[x] male
+-[ ] female
+
+blockquotes
+===========
+> block1
+>> block2
+
+
+
+tables
+======
+S.no | Name
+-----|-----
+01   | chiru
+02   | chinnu
+03   | raju
+04   | sam
+
+
+images
+======
+![pic](add link)
+
+internal img
+============
