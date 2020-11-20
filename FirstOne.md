@@ -57,7 +57,7 @@ S.no | Name
 
 images
 ======
-![pic](add link)
+![picture](https://bigcatsindia.com/wp-content/uploads/2018/06/Royal-Bengal-Tiger.jpg)
 
 internal img
 ============
